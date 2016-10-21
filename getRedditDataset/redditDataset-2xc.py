@@ -173,9 +173,9 @@ def getPostsWithinRange(subreddit, startDate, endDate, nPosts=1000):
 if __name__ == "__main__":
 
     # handle arguments
-    startDate = '140423000000' #yymmddHHMMSS
-    endDate = '140429235959' # sys.argv[2]
-    dbName = 'wk1' #sys.argv[3]
+    startDate = '140430000000' #yymmddHHMMSS
+    endDate = '140506235959' # sys.argv[2]
+    dbName = 'wk2' #sys.argv[3]
     fineScale = 8 #int(sys.argv[4])
 
 
