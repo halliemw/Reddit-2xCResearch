@@ -1,0 +1,26 @@
+I don't think that's accurate. See [this](http://www.businessinsider.com/11-illegal-interview-questions-2013-7?op=1) article from Business Insider - emphasis mine:
+
+"State and federal laws make discrimination based on certain protected categories, such as national origin, citizenship, age, marital status, disabilities, arrest and conviction record, military discharge status, race, gender, or pregnancy status, illegal. 
+**Any question that asks a candidate to reveal information about such topics without the question having a job related basis will violate the various state and federal discrimination laws**," Lori Adelson, a labor and employment attorney and partner with law firm Arnstein & Lehr, tells Business Insider."
+
+[EDIT] Not only that, but a blanket "everyone is wrong" also doesn't recognize that protections of inquiring about marital status in an interview vary by state. For example: 
+
+* In [Illinois,](http://www.lasorsalaw.com/lawyer-attorney-1738395.html) "it is a violation of the Illinois Human Rights Act **to ask about** or discriminate against an employee based on their marital status." 
+
+* In [California](http://www.topemploymentattorneys.com/marital-status-discrimination/), "marital status discrimination begins **even from the time that you are interviewing for work**. In an interview, if you are asked if you are married, plan to get married, pregnant or plan to have kids, your prospective employer may have already committed family status discrimination against you." 
+
+* In [New York](http://www.employmentlawyernewyork.com/marital-discrimination-and-harassment.html), "during a job interview the employer should not ask any direct or indirect questions related to the applicant's marital status, otherwise they would be **violating the New York State law which may lead to a lawsuit**."
+
+* In [Connecticut](http://www1.ctdol.state.ct.us/viewarticle.asp?intArticle=21), your employer may not ask **any questions** regarding marital status in an interview. 
+
+* In [Michigan](http://www.hr.msu.edu/documents/facacadhandbooks/aa_searches/questions.htm), "**you may not ask questions** about marital status, (e.g., spouse's name, spouse's employment status, whether the candidate is single, married, divorced, separated, engaged, or widowed), pregnancy, ability to reproduce, advocacy of any form of birth control, plans for a family, or child care issues."
+
+* In [Washington](http://webcache.googleusercontent.com/search?q=cache:tVt4t-oKvqYJ:blog.nwjobs.com/careercenter/can_they_ask_that_questionable_interview_topics.html+&cd=5&hl=en&ct=clnk&gl=us&client=firefox-a), employers **can't inquire** about marital status during an interview.
+
+This is obviously not an exhaustive list.
+
+Without looking at the finer points of state law (which is why this top comment is particularly unhelpful, because OP's situation is undoubtedly state-sensitive), marital status *discrimination* is unquestionably illegal under federal law. Therefore, if you are asked about your marital status in an interview and subsequently not hired, you may bring a discrimination claim against the employer, and the burden is then on the employer to prove that you were not discriminated against because of your marital status. 
+
+TL;DR: If you are faced with a situation in which you are asked about marital status in your interview, the answer (if you are in the United States) depends on the individual protections *in your state*. If you are not hired, you may also - in any state - sue under federal protections (particularly The Civil Service Reform Act of 1978 (CSRA)) for marital status discrimination.  
+
+[EDIT 2] [In fact](http://webcache.googleusercontent.com/search?q=cache:tVt4t-oKvqYJ:blog.nwjobs.com/careercenter/can_they_ask_that_questionable_interview_topics.html+&cd=5&hl=en&ct=clnk&gl=us&client=firefox-a), "in ***20 U.S. states***...an employer may not ask you if you are married, widowed, divorced, intend to be married, are in a committed relationship or how many times you have been married." 

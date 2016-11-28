@@ -1,0 +1,7 @@
+Not true. Those are pretty simple things to control for in any statistical analysis of the wage gap. 
+
+I mentioned this in a previous comment but here's a REALLY comprehensive study (but they pretty much all are) that controls for almost every factor you can think of when comparing the wage gap.  It's by Lowen, A., & Sicilian, P. (2009) "Family-Friendly" Fringe Benefits and the Gender Wage Gap. 
+
+They control for: previous experience, tenure, # of kids, kids under 6, race, hispanic ethnicity, marital status, partner employment, health status, urban residence, living in the South, company size, education, unemployment rate in the community, nonprofit status, government agency, union status, part time or full time, supervisor status, gender of supervisor, and proportion of females in the occupation. Women's wages are still 75.8% of men's wages. (and btw, receipt of family friendly benefits doesn't moderate the wage gap either). 
+
+forgot to add they controlled for industry too.

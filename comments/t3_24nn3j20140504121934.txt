@@ -1,0 +1,8 @@
+>We examine *whether a given email generates a reply from a given professor in our experiment within one week*, by which point responses had essentially asymptoted to zero (with 95% of responses received within 48 hours and just 0.4% arriving on the seventh and final day of
+27 our study). The final sample of faculty included 43% full professors, 27% associate professors, 25% associate professors, and 5% professors who were either emeritus or of unknown rank.
+
+Their reasoning for this metric choice is thus:
+
+>Replying (versus not replying) to an email from a student seeking research experience and considering a doctorate, the outcome variable of interest in our study, is the most visible signal that a faculty member *has not entirely dismissed or overlooked the prospective student’s interest*.
+
+And they certainly do have a good point. That said, if the breakdown of replies indicated that professors were significantly more likely to agree to meet with the students, the three authors of this paper would have follow-up research grant money literally thrown at them, because that’d be a rather rock-solid data set. I’d love to hear their explanation for why they elected not to report it.

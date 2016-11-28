@@ -1,0 +1,2 @@
+You can go to http://www.reddit.com/r/subreddit/wiki/config/sidebar
+to see sidebars. (replace subreddit with the sub's name)

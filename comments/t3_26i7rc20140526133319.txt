@@ -1,0 +1,1 @@
+Just to be clear, hitting the report button does work it just takes a bit longer since it's a queue instead of a message.

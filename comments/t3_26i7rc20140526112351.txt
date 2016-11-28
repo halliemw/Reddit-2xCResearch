@@ -1,0 +1,2 @@
+I imagine that the comments reported via "report" button don't trace back to a specific subreddit as easily (at least not without some sleuthing), so the admins can't really count them in the /r/TwoXChromosomes -specific total.
+

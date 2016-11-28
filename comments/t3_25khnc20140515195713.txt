@@ -1,0 +1,5 @@
+Not only language-wise but also you need to be able to adapt your mind to new mental models. If you've had a knack for finding patterns or looking for what drives things then you'll probably do well in programming.
+
+The grammar of the language is generally the least problematic part of the problem. It'll usually have more to do with semantics and the relationships of all the different bits. So sure, knowing how to context switch between languages will be a boon, but if you're also capable of context switching between how things will be interpreted differently based on the language, region or culture you'll be in better shape. 
+
+And yes, make sure your code is as self-commenting as possible. That goes a long way, and is much more helpful that parragraphs of possibly outdated comments.

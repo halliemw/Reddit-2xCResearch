@@ -1,0 +1,9 @@
+No that is the ICD-9 (10 next year) ICD codes are what explains the diagnosis for example 717.4 is a derangement of the lateral meniscus. Included with that code is a series of CPT codes. CPT codes explain what was performed. A typical Physical Therapy bill will go out with 4 units of CPT. 1 unit is 15 minutes and an average session is one hour.  So the average PT bill for the injury above would be like this (obviously missing the appropriate formatting):
+
+97110  2.0unit  717.4 *
+97112  1.0unit  717.4
+97140  1.0unit  717.4
+
+This tells the insurance company what was done *"manual manipulation for 30 minutes to treat  a derangement of the lateral meniscus" 
+
+Source: I have been a physical therapist medical biller for 5+ years. I run three high end out of network offices in Manhattan. My job is to argue this shit all day with insurance companies, I have an 80% success rate for payment 

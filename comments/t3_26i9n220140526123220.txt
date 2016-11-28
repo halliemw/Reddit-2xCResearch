@@ -1,0 +1,1 @@
+In the future, require secondard contact information (grandparents, aunt/uncle, etc) in case the parent doesn't show up or gets in an accident.

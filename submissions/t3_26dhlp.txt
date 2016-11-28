@@ -1,0 +1,7 @@
+Whilst IFF is a welcome addition to some, it's also a slight annoyance to others.
+
+Thankfully there is a way to filter them out using the [Reddit Enhancement Suite](http://redditenhancementsuite.com/).
+
+Simply click on the cog wheel next to the preference and logout links, select "Settings Console", switch the tab to "Filters" and add "[IFF]" to the keywords box. (and click save)
+
+Hopefully that was helpful to some. 

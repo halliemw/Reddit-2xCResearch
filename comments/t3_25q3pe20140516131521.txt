@@ -1,0 +1,3 @@
+IFF is a symbol used in formal logic to stand for "if and only if" rather than if. For example, "I eat apples IFF the store is out of bananas" vs "I eat apples if the store is out of bananas" the first means if I am eating an apple, the store must be out of bananas, but the second only means the store might have been out of bananas, or there may be another cause for my eating an apple.
+
+............Damn, now I want some fruit.

@@ -1,0 +1,1 @@
+fake downvotes are added as part of reddit's anti spam algorithm. Upvote/downvote totals are not accurate, only the difference between them.

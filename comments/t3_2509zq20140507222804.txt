@@ -1,0 +1,1 @@
+Click the comment and press "z" to downvote. Works even when the arrow is removed.

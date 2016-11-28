@@ -1,0 +1,35 @@
+Let me rephrase my point in terms of what you've just said right here. I'm trying to show you that I fundamentally agree with you, but that you have additional beliefs that are counter-productive to your deeper beliefs (with which I agree), but you don't seem to be having any of it. So let me just take your advice.
+
+But first, let me rephrase my point in terms of the context of this discussion thread. Here's a recap:
+
+1. The article from OP asks "where are all the female developers?" It then goes onto suggest that forces of social conditioning shape different people and heavily influence their career choices.
+
+2. /u/robot_lady then comments implying/arguing that females would make up a greater proportion of programmers if they were essentially better socially conditioned to become programmers (maybe in a comparable way to men) She also attributes her own interest in programming to social conditioning (and pretty much echos the sentiment of the article).
+
+3. I comment with arguments that there will always be a gender gap in programming (however large) because men and women have statistically different interests in science and computer science specifically. I linked to a video that gives an overview of this phenomenon, and I didn't say it directly but the evidence shows that this difference is *caused* mostly by biological factors (hormones deriving from genes).
+
+> There are real and tangible problems that can be fixed
+
+Here's where we agree. First of all I agree that there are real and tangible problems. Many women are discouraged from, or at least not encouraged or expected to pursue programming because it's seen as unsuitable for females. *This is a problem.* I agree that opportunities should be made for women to get an easy track into programming, if they want to. *This is a way to help fix the problem.* What I don't agree with is that "where are all the female developers?" is a smart question; I think it is fairly uninformed. I don't agree with the idea that, since much less than 50% of developers are female, that it constitutes a "real and tangible problem", and I wouldn't agree with that *unless* I had reason to believe that the female proportion would be near 50% without any gender difference in social conditioning or discrimination. I don't think that is the case because of various displays of evidence I have seen. *It is therefore not a problem.* There are many other problems, but this isn't one of them. Nor is it a problem that women earn roughly ~70% of psychology, anthropology, and sociology degrees and a smaller majority of biology degrees.
+
+> While people focus on completely unsubstantiated biological differences
+
+They are far from unsubstantiated. Ironically, sex differences in psychology are substantiated primarily by females because psychology and biology are fields that are dominated by females. I wouldn't expect that you would be willing to research or study this topic yourself, but just in case you are, here is some material to start with:
+
+* [Some sex differences in psychology and an overview of evidence](http://evolbiol.ru/blankslate/blankslate.htm#p346)
+
+* [Some sex differences in psychology related to science, and an overview of the evidence](http://www.youtube.com/watch?v=-Hb3oe7-PJ8&t=15m20s)
+
+> instead of the far larger shared human characteristics we will continue to have unequal opportunities for women.
+
+Talking about what we have in common does nothing to contribute to our understanding of why we are different (and it is important to understand why we are different, not just presume ahead of time that we know the answer). Men and women both have two legs and two arms, but the NFL is 100% male. Why? Well, it can't have anything to do with having two arms and two legs because that's true for both men and women. 
+
+What we should be focusing on, instead of what we have in common, is *how fairly we are treated*. And we can only know how fairly we are treated if we know roughly how different we are (otherwise we will misunderstand how fairly we are treated). I care about the fact that some women face obstacles to entering programming and I wish it would stop. I don't think that 50% of programmers would be women if it did stop though.
+
+> Create a society with equal opportunists. And then we'll talk.
+
+Here is the problem: comments like these. We can only find solutions to problems when we *understand* our problems and especially only when we correctly identify something as a problem in the first place. If we do not understand our problems, and if we think something is a problem when it isn't, **that detracts from the real problems and the real solutions to those problems**. That is what I am accusing of you of doing here. You and many others here don't understand the problems but you have solutions anyway, which won't really work because you don't understand the problems.
+
+In this case, one of our problems is a society with unequal opportunity. The major solution advocated in the article and by other people here is that we should socialize the genders each in the opposite direction of their current outcomes. This is a solution that is destined to mostly fail because it doesn't take into account real biological differences between the genders. Thirty years from now females will still get most psychology degrees and males will still get most physics and computer science degrees and the solution will be considered a failure (because it was uninformed to begin with). 
+
+The bigger problem is that, all the while, the failed solution will have detracted from a real solution: namely to foster an acceptance of any individual's career choices regardless of gender. (The failed solution would probably work against this by making women feel bad if they drop out of programming tracks after having been pressured into them.) The minor solution of programming programs for girls which is advocated in the article overlaps with the real solution I am mentioning here, but again an with that is that this minor solution would be counterproductive if it pressured girls into programming against their true nature (falsely assuming that an interest in programming can be socially conditioned).

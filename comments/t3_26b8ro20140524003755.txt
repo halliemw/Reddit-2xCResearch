@@ -1,0 +1,1 @@
+I've seen making the downvote smaller work a bit. Removing it is also an option. And while I like the bar at the bottom that tells people what downvotes are for, a hover over where your cursor is might get more attention.

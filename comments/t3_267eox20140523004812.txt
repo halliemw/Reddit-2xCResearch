@@ -1,0 +1,3 @@
+There's different kinds of programming.  Game programming requires heavy math, website design (JavaScript) often doesn't.
+
+Try it out and see if you like it.

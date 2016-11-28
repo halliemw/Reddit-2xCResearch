@@ -1,0 +1,1 @@
+You need the http bit to make the hyperlink work, starting a URL with just the www doesn't cut it for some reason.

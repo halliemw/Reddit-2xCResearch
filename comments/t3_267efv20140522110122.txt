@@ -1,0 +1,3 @@
+Top is the highest net score. Best is the highest ratio of upvotes to downvotes.
+
+http://www.redditblog.com/2009/10/reddits-new-comment-sorting-system.html

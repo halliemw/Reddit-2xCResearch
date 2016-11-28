@@ -1,0 +1,5 @@
+Hitting "report" under the comment will send it to the admin moderation queue.  They do check their moderation queue regularly, but it will be one comment in a long list.  They won't know that your comment is tied to /r/TwoXChromosomes, and they may not get to it as quickly.
+
+Sending a message to /r/reddit.com sends a message to the moderators of that subreddit, the reddit admins.  This method allows you to provide some context, and sends the admins a modmail.  Reporting this way gives them more context (which is good, because then they can give the /r/TwoXChromosomes moderators feedback about troll stats) and may get addressed faster.
+
+Either method will work, though.

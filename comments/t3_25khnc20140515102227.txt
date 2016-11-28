@@ -1,0 +1,7 @@
+As a sysadmin, I never see women in my field. I find the sexism isn't necessarily just in peer groups, but also in management and customers. The "IT guy" expectation is so strong that I honestly can't think of a single employer or customer who would accept a female system/network administrator without a huge value shift being necessary. 
+
+I'm really glad to see the improvements in the software dev field that have occurred since the 80's, but as this statistic shows the initial leap has been followed by a stagnating ratio. 
+
+Programming being a bit more "abstract" probably accounts for what minimal social acceptance has occurred, and system/network engineering being perceived as more "dirty" work may account for the lack of representation in my field. Plus, its higher accessibility to those without degrees may account for a higher level of prejudice.
+
+All in all, I'm so sad that the technology fields are still so unequal. Women are receptionists, sales, accounts payable, marketing, but never actually in the technical positions. The few who are usually fall into it in a side capacity.

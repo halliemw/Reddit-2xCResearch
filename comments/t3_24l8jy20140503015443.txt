@@ -1,0 +1,13 @@
+> The originals seem to disappear off of my sites.
+
+It sounds like he has access to your accounts - I would say he might have access to your computer too but then he would have deleted your screenshots. I would mention to law enforcement that that's the case no matter what.
+
+What email provider are you using? Gmail? Yahoo? You should go through this kind of checklist for all your accounts (even your bank and other sensitive websites...especially if you used the same passwords in the past): https://support.google.com/mail/checklist/2986618 _especially_ #7 that talks about two factor authentication (or "2 step verification"). It means that even if he has your password, he can't log in without stealing your phone. The system works by you downloading an app or getting text messages to a phone you always have, in order to get a second randomly generated number to enter to finish the login process. It's very effective at stopping people from using your account without having the second step (something you have/own next to you, like a phone). If you're worried he might steal your phone, you can set up remote backups and then turn on Find My iPhone (http://support.apple.com/kb/PH2696) or Android Device Manager (https://support.google.com/accounts/answer/3265955?hl=en) so you can lock it so he can't use it, and also be able to show law enforcement how to locate him (and he just dug himself a deeper hole).
+
+The best thing about 2 factor authentication is that it's not just Google that offers it. Facebook does too, as well as a bunch of banks and other email providers and other accounts online in general.
+
+Then make sure you have a backup of everything. A backup of a backup, even. Leave it with a friend, an account online using an email he doesn't know about - on a computer he doesn't know about, leave it with the police... There are backup services out there that will back up your email and keep deleted messages for you. Whatever you can use against this scumbag.
+
+If you feel comfortable doing so, also report violations and maybe the company person researching his accounts can help law enforcement with the deleted message problem that they might still have access to: https://www.facebook.com/help/contact/274459462613911 and https://support.google.com/mail/contact/abuse?hl=en
+
+I'm so sorry this happened to you and I have no idea why law enforcement is slow. Please check out RAINN and other hotlines like others suggest and see what else can be done to protect yourself and your family until the police catch up. 

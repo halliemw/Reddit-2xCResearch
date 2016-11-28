@@ -1,0 +1,5 @@
+This comment has been overwritten by an open source script to protect this user&apos;s privacy. 
+
+   If you would like to do the same, add the browser extension [GreaseMonkey](https://addons.mozilla.org/en-us/firefox/addon/greasemonkey/) to Firefox and add [this open source script](https://greasyfork.org/en/scripts/10380-reddit-overwrite).   
+
+ Then simply click on your username on Reddit, go to the comments tab, and hit the new OVERWRITE button at the top.

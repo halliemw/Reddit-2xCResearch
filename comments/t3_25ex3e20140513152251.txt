@@ -1,0 +1,8 @@
+You don't understand, there are 4 scenarios:
+
+You trust him - He's not cheating - The relationship is good.
+You trust him - He is cheating - The relationship is bad.
+You don't trust him - He's not cheating - The relationship is bad.
+You don't trust him - He is cheating - The relationship is bad.
+
+If you have to snoop through his stuff there's no good outcome anyway. There's still a chance you'll get screwed if you don't snoop.

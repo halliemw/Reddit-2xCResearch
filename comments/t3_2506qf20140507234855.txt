@@ -1,0 +1,37 @@
+Ignoring repetition:
+
+> I'm not saying it will directly lead to girls developing an eating disorder and "cutting under the starvation barrier". I am just disagreeing with your entire premise that counting calories is a good way to teach a child about nutrition. it's not.
+
+OK, well, this has been stated... and not supported. Why? Again, I am entirely open to the idea of being completely wrong, but multiple repetitions do not answer this question. I guess basically what I am saying is - I want to see some form of a study and explicitly and carefully stated measured dependencies. I.e., teaching to measure and teaching to diet are drastically different things. Which is dangerous? Are they both? How are these dangers measured?
+
+(And this is, again, not because I think I am right - it is because I want to be educated.)
+
+> teaching them basic skills, to stop eating when they are full, that different body types are normal, that exercising at least 30 minutes a day is healthy, eat more vegetables and fruit than bread and sweets, etc
+
+So regarding exercise and body types - no argument. But I have this question...
+
+Consider abstinence-based sex education. Effective? In no way. So what's the next step? Well, *operating under the assumption that they need to be informed about the choices they are making*, let's give them tools. Teach how to put on condoms, teach about BC options, STDs, etc. Better? Much better. But also much more complicated than "don't fuck".
+
+I guess I see a similarity. You are basically saying: "Don't give additional tools, give these instructions instead, they can only lead to positive things *if they are followed.*" **And this is true**: if the instructions you are describing - "Stop when full, exercise, eat fruits and vegetables, less bread and sweets, etc" - are followed, they are excellent instructions. If followed, they give great results.
+
+Similarly, if the "Don't fuck" instruction is followed, the problems associated with underage pregnancies, STDs, etc., outside of cases of rape etc., generally do go away as well.
+
+But the problem is that they are not followed. And, similarly, I don't really see too many reasons to believe that the obese/anorexic/dystrophic/etc. girls (and boys) follow the healthy and reasonable instructions you listed either.
+
+So, the parallel, the way I see it, would be to give additional tools. You are saying that denying these tools is not "stripping tools". Well, I am sorry, but what else is it? Not "need" perhaps (you do not indeed need these tools if you follow the instructions you gave above) - but it is stripping tools, how is it not?
+
+> i don't mean to invalidate your experience, but these are not girls in 90s russia. these are young girls in america, bombarded with social media and celebrities and obsessive to the point of being ridiculous with how they look.
+
+You do not begin to understand just how difficult being an overweight girl in 90s Russia was. You would not be one of ten. You would be one of a hundred. I do not mean to invalidate the experiences of modern 11-13 year olds in the States (hell, I was 13 when I came here in 2000), but they, generally, have it infinitely better than the 11-year olds in a far more patriarchal country where young people are generally very physically fit. (And corn doesn't grow, thereby preventing the use of HFCS).
+
+> teaching a young girl that calorie counting is a better idea than basic nutrition is bad.
+
+In fairness, this is not at all what I was suggesting; furthermore, I explicitly said that the former is impossible without the latter. If you thought I said "only teach counting calories and ignore basic nutrition", I spoke incorrectly or you misunderstood. I am just saying "basic nutrition is clearly not enough, for the same reasons abstinence-based sex ed is not enough".
+
+The rest of your paragraph is just repetition.
+
+> if a child needs a diet it's up to their doctor and parents to do that for them.
+
+Well, that might be true, but the notion that doctors will help their patients about something like this is wishful thinking. The appointments are like 10 minutes at most and cost tons of money (and insurances don't often cover this sort of thing). Hell, when I was like 14 (and under an excellent insurance from my father who was a software engineer at the time), he set up a meeting with a dietologist for me because I asked. This was not only a complete waste of time (and the place was Jocelyn Center, by the way, a nationally renowned hospital), but also extremely expensive. Again, god, I wish I learned about calorie counting instead of the **measurement-independent attempt to control a dynamic system** (the dumbest thing in engineering, as any engineer will tell you - you need to know how to measure the state to adjust the state) that the dietologist suggested. (Which I was not able to follow either.)
+
+The rest is again, repetition.

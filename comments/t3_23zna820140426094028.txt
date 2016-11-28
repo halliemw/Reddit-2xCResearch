@@ -1,0 +1,21 @@
+No, there are a few things to get out of this graph:
+
+1) there are more men than women. 
+
+2) most of the people in the class are men with average scores. This is important because they are the ones who tend to make jokes about women (and minorities) not being able to hack it, and most of the class agrees, because most of the class is like them.
+
+3) at the very top of the class, the number of men and women are about the same. Most of the women are doing better than most of the men, despite 1 and 2. 
+
+4) the average women are practically missing
+
+If I had scaled by number of people within each category, 1 could arguably be shown with a separate pie chart, but it's much easier to see 2 using this type of histogram, rather than having viewers use information from the pie chart and the histogram. This histogram does not prevent the viewer from seeing 3, and places 3 in the context of 1 and 2. 4 is shown in extra contrast compared to the number of average men.  
+
+If you had actually read the comment I made describing the main points of the plot and the comment I made about attrition, you would have seen that 'more women are doing better than men' was not the only point I was getting across. Your strong statements:
+
+> ironic
+
+implying I'm bad at math. Even if this is a bad graph, making bad graphs != bad at math, especially the type of math covered in that class.
+
+> terrible
+
+despite not having read the comments describing *what* I was trying to show in the first place sounds like a "pretty mean dig at my intelligence, which is both offensive and beside the point." I suppose I can only criticize you using words you use first. 

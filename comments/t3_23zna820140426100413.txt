@@ -1,0 +1,1 @@
+I've only taken a few stats courses, so pardon me if this is wrong, but can you use the X^2 test for independence when there are so many bins with low frequencies? 

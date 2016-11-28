@@ -1,0 +1,1 @@
+It also makes it so that people who start browsing not logged in (hi!) will see posts from 2X on the front page. This could cause quite an influx.

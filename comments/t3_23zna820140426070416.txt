@@ -1,0 +1,3 @@
+No, the point is to show the first two bins have about the same number of men and women. You can get the 'most women are doing really well' because the distribution is skewed left and the center is higher for the women than for the men.
+
+Moreover, math, applied math, and statistics are different. I suspect you have succumbed to the Dunning Kruger effect.

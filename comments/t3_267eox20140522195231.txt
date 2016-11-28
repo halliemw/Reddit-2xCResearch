@@ -1,0 +1,29 @@
+I linked to the exact time in the video I wanted to point out. It's only a minute long or so. Actually, this article makes the same point so maybe you would like to read this instead: http://blogs.scientificamerican.com/the-curious-wavefunction/2014/04/22/neil-degrasse-tyson-has-a-point-but-larry-summers-is-still-right/
+
+> But I strongly believe that those statistics are representative of the social conditioning inherent in our cultural upbringing, and not necessarily reflective of women's lack of interest in computing.
+
+Here's the problem. The evidence strongly suggests otherwise. It's not that social pressures and expectations don't exist, it's just that they have very little if any effect on the outcomes we're talking about. (And in general, "social conditioning" is extremely overrated in explaining differences *within* a culture; they turn out to be more or less negligible in explaining differences within a culture.) If we looked at another obvious example that we all agree with we would see how silly it sounds:
+
+> I strongly believe that *the NFL gender gap* is representative of the social conditioning inherent in our cultural upbringing, and not necessarily reflective of women's lack of interest in *football*.
+
+Of course, we all know that boys are encouraged to play football more than girls, but we do not then say that it is *therefore* the reason the NFL is 100% male. It's precisely the other way around. Males are better at (and more interested in) football and that's why our culture encourages football more with men.
+
+In the case of career choice, the gender differences in *interests* far outweighs the gender differences in *ability* in most cases. (Superior abilities are in roughly the same number for men and women.) That is why women outnumber men for biology degrees but men outnumber women about 4:1 for physics degrees. It's not that physics departments are four times more sexist than biology departments, it's that when you ask bright young high school students what they want to do the answers are simple: the women are as interested in biology but a lot less interested in physics than men are, *and that's okay*. Here are statistics on the sex ratio among graduate students. The order here is by level of analysis (with computer science thrown in somewhat arbitrarily next to physics). The first number is men; the second number is women.
+
+Physics:   1694: 448
+
+Computer Science:  1465: 380
+
+Chemistry:  1520: 897
+
+Biology:  3936:4494
+
+Psychology   1047:2566
+
+Anthropology:  186: 360:
+
+Sociology: 230: 400
+
+Political Science: 422: 303
+
+The trend in this data isn't because of wildly different social pressures between the sciences.

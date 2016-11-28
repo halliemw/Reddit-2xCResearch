@@ -1,0 +1,1 @@
+The down vote button Is also used to remove or hide low quality posts, at least, that was the original goal.

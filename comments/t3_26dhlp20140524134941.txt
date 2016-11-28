@@ -1,0 +1,1 @@
+If you've installed the enhancement suite, it should appear in the far right corner. Here's a [screenshot](http://i.imgur.com/q7bPsLi.png) of what it looks like.

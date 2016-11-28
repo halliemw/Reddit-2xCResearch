@@ -1,0 +1,1 @@
+We have locks on the window so we can have it open only part way. We should have done that all along, but hindsight is 20/20.

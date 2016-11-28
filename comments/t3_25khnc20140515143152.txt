@@ -1,0 +1,3 @@
+> Infrastructure in general (networking, AD, LDAP, DNS, etc.) is probably the last bastion of old school WASP corporate America.
+
+I work on an Infrastructure team of six, and only two of us are white, though all are males. I don't think we've had a single woman apply for an infrastructure job since the position was created in my department 15 years ago... On the other hand there is lots of infrastructure team leads that are women in my university (From what I can gather they mostly start in front line tech support, transition to team lead there, then they're pivoted to in charge of the nerds in the windowless rooms).

@@ -1,0 +1,11 @@
+The admins contacted the mods of /r/TwoXChromosomes as part of a [much larger overhaul](http://www.redditblog.com/2014/05/whats-that-lassie-old-defaults-fell.html) of the default subreddit system.  There are now 50 defaults, rather than the 25 there used to be.  The new defaults now cover a range of niche topics, rather than being selected as "universal appeal" subreddits.  
+
+Because the admins wanted to keep their big announcement a surprise, they asked the mods of new default subreddits to keep the decision under wraps.  This also meant we couldn't simply ask for more time to train mods. 
+
+That is not to say that we sat around twiddling our thumbs for 48 hours.  We beefed up our automoderator in preparation for announcement.  The existing mod team all cleared our schedules for the days after, and we have been tag-teaming to keep up with the extra moderation load.  We will be announcing a first round of new mods within the next few days, and have selected people with prior moderation experience so that they'll train up faster.  We intend to open up a second round of mod positions in the coming weeks.
+
+The mod team here at /r/TwoXChromosomes believes strongly that it will be a *good thing* in the long run for newcomers to reddit to see there is a girly area they can hang out in if they so choose.  We were very hesitant about opening up the doors of our little treehouse as that space, but we also recognized that as the largest and most active women's community on reddit, we were the natural choice.  
+
+**We had many doubts and misgivings about the change, and we didn't agree until we were assured by the admins that we could back out at any time.**  That being said, we are committed to giving default status a real chance.  Right now, we are flooded with jerks and trolls not only from the default front page, but also from a number of subreddits who don't like us and posted about the changes in /r/TwoXChromosomes on their front pages.  We'll be able to make a better assessment of our long-term prospects once the shitstorm around the announcement dies down.  Unfortunately, this also means we cannot give you an exact timeline of a "trial period" - if we said, for example, that we're trying it out for 2 weeks, that would guarantee that devoted brigades would spend the entire 2 weeks making our moderation job harder 
+
+

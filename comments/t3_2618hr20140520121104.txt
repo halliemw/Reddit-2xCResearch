@@ -1,0 +1,5 @@
+Unfortunately, when we post PMs on our front page, it just eggs the trolls on more.  It's exactly the reaction they are looking for.
+
+We're working on a few suggestions for controlling PMs more generally, but for the time being, the best course of action is to hit "block" and "report" under the PM.  That will keep the user from contacting you directly, and send the offending message to the site admins (who can block that user reddit-wide).
+
+If you do feel the need to share the PM with someone, /r/creepyPMs is a supportive community for that.  Also, feel free to message the mods - though we can't directly control PMs, we are interested in getting a better idea of the scale of the problem as we work on building solutions.

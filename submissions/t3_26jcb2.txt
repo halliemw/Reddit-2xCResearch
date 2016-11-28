@@ -1,0 +1,28 @@
+Ok TwoX-ers! This thread is a follow-up to /u/littlelibertine's idea in [this thread](http://www.reddit.com/r/TwoXChromosomes/comments/261i1l/i_am_not_ashamed_of_my_abortion_venting/chmw9fv) about women seeking abortions: 
+
+> You know what would be really handy? A network of women offering a bed/couch to other women who need somewhere to stay in that time between the ultrasound/class and the abortion. If there isn't one, we should make it.
+
+I promised that I would talk with my partner, who is a software developer, about creating something that would help. Here's the results of our discussion:
+
+* This should be web-based. An app could come later, but not everyone has a smartphone. 
+* It would need to be perfectly safe and anonymous for the women looking for a place to stay (at least until she contacts her potential hostess) and the women doing the hosting. This is the trickiest bit. **HOW do we keep out the creepers?** 
+* OPTION 1: We can't do an Airbnb-style layout where you reveal lots of info about yourself in a profile, but we could do mimic the way [housesitting sites](http://www.trustedhousesitters.com/house-and-pet-sitters/9095-SirRied/) are setup. You can upload a police background check, photos of your home, a video and/or anonymous reviews (that are verified behind-the-scenes by the site).
+* OPTION 2: We could setup a mostly-offline system that keeps the potential for abuse very low. Think of it like a book club. One TwoX-er volunteers to be the den mama for her city/town/area. If any other ladies want to volunteer to be involved, she can meet with them in-person at a coffee shop and make sure they aren't a blatant creeper, and even check out their references. This obviously involves more legwork, but if you're willing to drive someone to/from appointments, or let them stay in your home, you're probably willing to do a bit of work up front to prove that you're honest. We could put a link to a searchable database in the sidebar; women in need could simply enter their zip code and find their nearest den mother to contact.
+* OPTION 3: We here on TwoX have a history of trusting each other. I see women offering rides, couches and beds to other women all the time. We're a fantastic community (with or without the influx of people from r/all). Should we begin by talking to the mods and making it Reddit-based? ~~Maybe the mods could keep a list in the sidebar of users who are willing to be contacted and their general regions? (This could be a problem with us being a default now. Maybe we should make a separate sub for this?)~~ Update: The mods say this is a no-go, but I like u/thisisappropriate's [idea of a private sub.](http://www.reddit.com/r/TwoXChromosomes/comments/26jcb2/re_a_way_to_help_women_in_need/chro029)
+
+/u/littlelibertine also said she has a friend who runs a non-profit, and they would be talking to their local Planned Parenthood about it, which I think is a fantastic idea! It seems to me that we either need to go very low-tech, low-visibility, OR high-tech, high-visibility via a partnership with an organization like PP. They could act as the "den mothers" in the "book club" option I described above.
+
+I'll be letting /u/littlelibertine know about this thread so she can post an update here if she chooses. But I'm also interested in what ideas you other TwoX-ers can come up with! 
+
+Take it away TwoX! Let's do some good!
+
+**TLDR: Let's make a network to help women who need a place to crash when traveling to get an abortion. IDEAS?**
+
+
+Edit: My partner is extremely busy at the moment, so he probably can't do too much to help out in the next two months. But he's always available to answer programming questions about what is/isn't possible.
+
+Edit 2: Just to be clear, I'm not claiming sole ownership of this idea. I'm self-employed and probably not able to start an entire non-profit from scratch right this second. If anyone wants to take these ideas and run with it, feel free!
+
+**Edit 3: So many good ideas (and concerns), you all ROCK! Here's what I'm currently thinking: we create a searchable database of the existing local resources that so many of you mentioned. We could expand upon this if we create partnerships with local clinics, non-profits or Planned Parenthood. If there are no resources available in the woman's area, she could then request that the clinic set up a fund for her. We could work with the clinic to collect donations to cover her hotel and bus fare or car rental. That way we keep out of *almost* all the privacy and safety concerns, while still giving women an easy way to find help. Thoughts?**
+
+Edit 4: Thanks for the gold, kind Redditor! **Anyone have any good ideas for a name for this site? I thought of "BackHer" or "SupportHer" but those appear to be taken.**

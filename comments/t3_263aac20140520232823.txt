@@ -1,0 +1,7 @@
+You're welcome.  :)
+
+Java is a good language for working in teams, but it's restrictive when you first start out.  If you use Windows, a copy of Visual Studio is well worth it.  C# is basically an updated version of Java that is controlled by Microsoft.
+
+On the Mac side, Objective-C is a good language, but it completely limits you to a Mac platform, and when things break they can be hard to fix.  Also, Objective-C is different than a lot of other languages.  C, C++, Java, C# and JavaScript have a lot of ideas in common (not counting closures in JavaScript, and the extra stuff in C#).
+
+After learning the fundamentals, Java is common in engineering, so it is a good choice, but a lot of developers that learn Java first limit their growth.

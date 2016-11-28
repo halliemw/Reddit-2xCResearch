@@ -1,0 +1,5 @@
+Learning how to code is no different than running a marathon.  Daily practice, over enough time, will make you stronger.  Nobody woke up and started coding by accident on the first day, this takes time.  I think that's the biggest misconception people have.  They try it for a week and then give up.  The rest of us have been doing this for years.
+
+To be a true coder, learn the basics in one language.  Then learn four languages.  Read good code from GitHub.  Read real code from a company.  Find something that personally interests you and do it.
+
+If, at any point, you think that it is easy then you aren't pushing yourself.  Learn another language, or do something new until it's hard again.  Whenever it's easy, you aren't learning something new.  Whenever it's hard, you're getting better.  Learn to enjoy that process and to constantly challenge yourself.

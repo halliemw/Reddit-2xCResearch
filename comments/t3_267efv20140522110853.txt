@@ -1,0 +1,5 @@
+http://www.redditblog.com/2009/10/reddits-new-comment-sorting-system.html
+
+In sort, best ranks comments by how many upvotes they receive per unit time, where as top just ranks the by total number of upvotes.  Thus, top tends to show comments which have been around for 3 hours and get 1 upvote a minute (360 total), while best will show you comments which get 5 upvotes a minute even if they've only been there for 20 minutes (80 upvotes total).
+
+Logic is that the better a comment is, the more likely a person reading is to upvote, which means more upvotes per eyeball, which means more upvotes per minute.

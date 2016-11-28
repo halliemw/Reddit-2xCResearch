@@ -1,0 +1,1 @@
+A small introduction to computer science!! Show them Conway's game of life :)

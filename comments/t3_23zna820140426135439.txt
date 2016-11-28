@@ -1,0 +1,15 @@
+Well, fisher's exact test on 2x2 as Gradstudentinperil described
+
+[28 10
+
+6    4] 
+
+gives a P_cutoff = 0.2058. I don't think we have to look for the other possibilities because P_cutoff is already high.
+
+Even going by just A's
+
+[12 8
+
+22 6]
+
+has P_cutoff = 0.0984.

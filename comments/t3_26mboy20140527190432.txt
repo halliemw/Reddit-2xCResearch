@@ -1,0 +1,7 @@
+False accusations, it's basically this [one](http://vaw.sagepub.com/content/16/12/1318.abstract). Many people cite the FBI report, but it's really not methodologically sound, and basically just lucked into the right number. 
+
+Reporting, going to trial, and convictions: [Full Report of the Prevalence, Incidence, and Consequences of Violence Against Women](https://www.ncjrs.gov/pdffiles1/nij/183781.pdf)
+
+RAINN is decent, though they tend to use somewhat older stats, and also rely almost exclusively on stats done by the justice department and FBI (but not usually the CDC), so the angle they're coming from is very much "how do we work well with the DoJ" not "how do we understand sexual violence as a public health issue" or "how do we understand rape from a radical framework?"
+
+It's important to note that rape statistics vary quite a bit, based on definitions, specific phrasing of questions, and methodology, and numbers can be rather contested. Right now, a lot of numbers are starting to be reconsidered regarding sexual coercion and also gender. Evidenced-based arguments are wonderful, but it's also a good idea to not lock yourself into a viewpoint or argument that only stands if researchers are reporting very specific numbers, especially if you're largely using something like RAINN as your resource.

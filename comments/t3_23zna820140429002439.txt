@@ -1,0 +1,1 @@
+With fisher exact, don't you have to find the other matrices and add up the P values for all with the same P value or lower? I didn't bother with the other matrices because this one alone is >.05 am so close to 0.1 that it's probably not worth it.

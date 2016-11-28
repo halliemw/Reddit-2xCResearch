@@ -1,0 +1,1 @@
+For what it's worth, Perl is a weird language, even for experts.  The phrase "ASCII vomit" comes to mind.  If you ever want to try again, use JavaScript instead.  It's much easier to read.

@@ -1,0 +1,9 @@
+This is a problem caused by the sub becoming default.
+
+Previously, it was opt-in. Those who came here wanted to. It was relatively unlikely that they would react negatively to posts. 
+
+Now it is opt-out. Lots of people who are not a good fit for this sub will now see it when they visit reddit. Even if only a small percentage react in a way that offends people in this sub, that is still potentially a large overall number of people.
+
+Given human nature, I wouldn't expect any other reaction than that, if you push things to peoples' attention that they disagree with (whether wrongly or rightly) then you must expect at least some to react.
+
+I think that being default is, unfortunately, harming this sub; it should be undone.

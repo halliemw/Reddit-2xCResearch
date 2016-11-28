@@ -1,0 +1,5 @@
+Issues with coding are to be expected, however, they clearly had the ability to report a second binary variable indicating the number of meetings agreed to:
+
+>To minimize the time faculty spent on our study, we prepared (and promptly sent) a series of scripted replies cancelling *any commitments from faculty that had been elicited* and curtailing future communications.
+
+Factor analysis does have valuable. I didn't see any principal component reports in the original paper but they have regression data for various variables available in Tables A3 and A4.

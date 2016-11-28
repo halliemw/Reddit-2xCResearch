@@ -1,0 +1,9 @@
+I don't usually post... but uh. I feel I have an obligation to.
+
+That police officer, is quite frankly wrong. "Faked emails." Sure you can fake emails, but it takes a slightly more learned eye to fake metadata.
+
+Please tell me you have these emails. If you do, take them to the police again. Demand a forensics investigator looks at them. If those emails are real, and I seriously don't want to discredit you;
+
+Get them checked out. If you don't have them, and they were from any public address, I.E. Google or Hotmail, call their support. While your deleted emails are technically gone, they typically stay around in their systems for years. They still have metadata attached that'll tell you precisely which computer sent it. That gives authorities the rights to search that computer for evidence regarding whom sent the emails.
+
+I am really sorry this happened to you. As a technician, shit like this, where police ignore evidence like this, is absurd. 

@@ -1,0 +1,5 @@
+Ha, you know what you're talking about (sorry the average reddit understanding of stats/science is pretty poor so I tend to assume...)
+
+That is interesting that they did have scripts which attempted to automatically cancel any meetings.  Maybe they have reasons why they think the scripts weren't very reliable based on past studies (though they include them for the profs convenience, maybe they don't actually detect a lot of the true positive data)?  Though you think they'd say were that the case.  Maybe in this field it's just more standard to use reply rate?
+
+Anyway it still could always be that if they use this variable the results aren't as significant so they don't report it which sadly is the way science seems to be going nowadays...  :/

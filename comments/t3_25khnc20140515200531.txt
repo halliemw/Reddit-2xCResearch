@@ -1,0 +1,5 @@
+The one tip I would like to add to what /u/OMGCanIBlowYou said, regarding underestimating and overestimating abilities, is if you think you're right stand up for what you're proposing. Even if you only think you **might** be right, don't fold at the first attempt by someone to criticise what you've done. Always ask, the person why they think it's wrong and to show why. Like she said, the field is always changing and there's always new stuff to learn, so a willingness to learn will get you far.
+
+And in the end you'll come out winning I think if you stand up for yourself in this way. Because, if they're right, you'll learn something new by having an error pointed out to you. And if you're right, you'll have gained some confidence and gained status among your peers for having come up with the right solution. 
+
+Most programmers value correctness over other things, so what might come across as pushy is just that desire to do things correctly.

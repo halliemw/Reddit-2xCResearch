@@ -1,0 +1,1 @@
+That's where the difference between valid and sound comes in. The argument is valid, in that the conclusion follows from the premises *assuming the premises are true,* but not sound, which would require that the premises *actually be true.*

@@ -1,0 +1,1 @@
+We do have a similar sort of scheme programmed into our Automoderator.

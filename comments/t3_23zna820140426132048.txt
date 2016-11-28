@@ -1,0 +1,1 @@
+You could turn it in to a 2 by 2 (As&Bs ; all others) by gender and so a fisher's exact test (which deals a bit better with the small cells.

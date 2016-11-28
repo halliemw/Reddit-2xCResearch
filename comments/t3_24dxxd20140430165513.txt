@@ -1,0 +1,15 @@
+Your provider or the medical coder (if they have one) may not have used the correct diagnosis code.  The diagnosis code has to prove medical necessity for the procedure.
+
+
+For example, a MOHS surgery is a specialized surgery for skin cancer and will not get paid if I send it out with a code for a benign (non-cancerous) lesion.
+
+They need to go to the BCBS website and look up the CPT code and what BCBS states is medically necessary.  Or, most insurance companies follow Medicare guidelines.  They can look up Medicare LCD Guidelines and that will often show what diagnosis code is considered medically necessary.
+
+NOW...they can't just change the code to something random to get it paid, but they can look at the information and then back at her medical record and make sure they coded it correctly.
+
+Get your wife to call them and get more detailed information.  The first line of defense should be the medical office filing a Provider Appeal form through the BCBS website.  They can also file a BCBS Reconsideration.  THEY should be fighting this...not you.  
+
+ALSO...make sure they filed your BCBS to the Local BCBS.  What this means is that if you have BCBS of IL but are currently in Alabama...they need to file it to the BCBS of Alabama...NOT BCBS of IL.  I get claims denied for funky reasons sometimes because we put the wrong address in.
+
+I know this was a lot of jargon, but you can literally read this word for word to the coder if you want.  They SHOULD understand it.  If they don't...I'm very very sorry.  
+

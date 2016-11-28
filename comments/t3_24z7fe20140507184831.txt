@@ -1,0 +1,3 @@
+Bad comments and posts can be fixed by the mods or the community voting, but the downvote noise generated because posts aren't interesting to the general public is going to be hard to overcome.  Reddit's voting system doesn't recognize that whether a random default subscriber wants to see a post is not relevant to whether an active subscriber does.  
+
+If vote evaluation took into account similarity of past voting history to the viewer (somewhat like Amazon's recommendation engine), then it wouldn't matter who saw a post.  Random uninterested default users would vote and train away posts for themselves and active TwoX posters would do the same for themselves (probably with a few subgroups with different interests).

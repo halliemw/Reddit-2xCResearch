@@ -1,0 +1,5 @@
+When you report a comment, it gets put in a special list of comments/posts (a moderation queue) that the moderators of the subreddit (like me!) see.  Then we read through all the comments on our moderation queue and delete/hide the ones that break the rules.  We can also ban users from participating in the subreddit if they are repeat offenders or particularly offensive.
+
+Reporting is very helpful, because it puts all of the problematic comments in one place.
+
+Please continue to report any posts or comments you find problematic/offensive.

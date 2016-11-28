@@ -1,0 +1,3 @@
+There are sorts of problems and complications with mod-assigned flair, especially in large subreddits.
+
+However, [Reddit Enhancement Suite](http://redditenhancementsuite.com/) is very useful for adding your own flair beside usernames.   

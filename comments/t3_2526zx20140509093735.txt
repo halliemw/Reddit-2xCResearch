@@ -1,0 +1,3 @@
+It's a slight bit too heavy-handed though. If you want equality on the defaults then this is not the way to do it. It's like having /r/minorities as a default, or /r/mendiscussmenorientedstuff as a default. Same reason /r/atheism as a default was silly.
+
+Honestly I don't think anything but extremely general subreddits should be defaults. Like /r/pics.

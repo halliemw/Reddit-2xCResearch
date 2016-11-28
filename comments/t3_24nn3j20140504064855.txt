@@ -1,0 +1,7 @@
+Someone linked the study below, I took a look myself. 
+
+They looked at your question in two ways.  First, they designed their study specifically to answer the direct race and gender matching question.  So, if you're a white woman, do you reply to white women more, etc.  female profs were no more likely than male profs to reply to female students.  The main exception to this rule was that Asian profs were more likely than other groups to reply to Asian applicants.  Otherwise, the race matching wasn't significant.
+
+The other way they looked at this was by discipline representation.  So, if you work in a field that is,  say, 40% African American, will you reply more often to AA applicants than a field that is 5% AA.  The answer is again that there was no significant direct effect of representation for any group.  
+
+Overall, though, they did see a higher rate of white male preference in certain fields - those which pay well and are high status, like engineering, etc.  since they don't see a sig effect for same group matching or for representation, they interpret this as more bias following stereotype.  That is, the faculty implicitly believe that the white males are more qualified because white males are associated with high status/high pay careers, regardless of their actual representation.

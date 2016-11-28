@@ -1,0 +1,3 @@
+Infrastructure in general (networking, AD, LDAP, DNS, etc.) is probably the last bastion of old school WASP corporate America. I've consulted for a number of Fortune 500s and, by and large, I'm talking to white men with the occasional woman. I think the only thing that is comparable are the monolithic R&D houses in companies such as GE, DOW, DuPont, Honeywell, etc. They have more women though... 
+
+Traveling to other IT 'towers' such as security or going to see the developers you see a *ton* of H1Bs and a lot more women & minorities. 

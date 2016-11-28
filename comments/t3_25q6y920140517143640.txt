@@ -1,0 +1,1 @@
+Mainly Silo 3D, Sculptris, and Meshmixer. The latter two are free, the first is a bare-bones but really clean UI modeling program. I was trained on Maya so Blender and I just do not get along. :)

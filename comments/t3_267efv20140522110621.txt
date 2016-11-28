@@ -1,0 +1,5 @@
+Best takes into account sample size of people who have upvoted/downvoted a comment.  Whereas "top" comments can often have a lot of upvotes just because they were posted early in the thread, therefore garnering more upvotes because of visibility, "best" uses an algorithm to try to fix that.
+
+From the [reddit blog post](http://www.redditblog.com/2009/10/reddits-new-comment-sorting-system.html):
+
+> There's a solution, and it's the new 'Best' ranking. When a few people have voted on a comment, you get a rough idea of its quality. The more people who vote on it, the better an idea you get of where it 'should' ultimately end up. With this algorithm, you quantify exactly how much you can tell about a comment from a limited number of votes. 

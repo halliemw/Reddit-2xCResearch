@@ -1,0 +1,5 @@
+In Facebook go to "Settings", on the left choose "Security"
+
+At the bottom it says "Where you're logged in", end the session that is associated with his phone. He won't be able to log in unless he knows the password.
+
+Might be too late for this, but for future reference you can log other devices out of FB.

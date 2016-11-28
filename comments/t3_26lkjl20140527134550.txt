@@ -1,0 +1,3 @@
+Comments that are removed by moderators are still counted in the total comments.
+
+If nobody responds to the comment before it is removed then there isn't even a "[deleted]" placeholder. 

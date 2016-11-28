@@ -1,0 +1,13 @@
+There are theoretical reasons in psychology for why, statistically, women would prefer the *social* side of the sciences and men would prefer the *thing* side of science for *mostly* biological reasons. This trend also shows up in psychological traits completely separate from career choice, such as verbal fluency and empathy (women) and mental rotation (men).
+
+> the environment around these subjects that make them incredibly hostile for women who are interested which in turn, along with other factors, decreases the numbers of women.
+
+This is speculation. We cannot, if we care about evidence, use the (real) phenomenon of hostility towards women in science as proof of a "decrease in the numbers of women". First of all, all we know is that it's just much lower than 50% but we don't know if it would be higher otherwise (unless we're making assumptions). In general, the numbers for women in science have all been increasing over the decades because of less and less discrimination.
+
+But as I said, the devil is in the details. The proportion of women in science varies *wildly* depending on the field. We can therefore conclude that hostility towards women *does not cause* much fewer women in science because that would require the level of hostility *between* science fields to vary by a factor of almost 5. No, physics departments (a male dominated field) are not 4 times more hostile than psychology departments (a female dominated field).
+
+> There was a post the other day showing that in communities with a large number of women in engineering/tech/science careers, girls are just as likely as boys to pursue these subjects in their own studies. 
+
+If you could find data that women are *just as likely to pursue every science field as men* then it would falsify what I am saying here. But I am quite certain that the data doesn't show that because it would falsify much of the field of sex differences in psychology. What I would expect is that in some areas, women have inched a bit closer in each science field but that the same discrepancy *between* science fields exists. Find me a place where females have achieved 50/50 parity in physics and I'll change my mind.
+
+(Another issue is that there are programs to encourage women to pursue certain fields, so that those numbers would be a bit inflated from what they would otherwise be. That wouldn't really affect the overall trend *between* the sciences, though.)

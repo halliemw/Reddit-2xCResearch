@@ -1,0 +1,3 @@
+Basically your physical therapist will hand off some de-identified charts to another physical therapist to check the charts for compliance with billing and medicare and a slew of other legal type things.
+
+It's meant to mimic the auditing system, without fines. 

@@ -1,0 +1,5 @@
+Estrogen inhibits caffeine metabolism, so most of the time women metabolize caffeine more slowly than men do. In the days prior to menses, however, body estrogen concentration decreases, so the rate of caffeine metabolism increases, and with it the chance of getting a caffeine withdrawal headache.
+
+Such headaches can be eliminated by gradually decreasing caffeine intake over a number of days.
+
+Details: estrogen indirectly inhibits caffeine metabolism by "competing" for an hepatic (liver) enzyme that dismantles both estrogen and caffeine. This is called competitive inhibition. In other words, the more time the enzyme spends dismantling estrogen, the less time it spends dismantling caffeine, so the longer the average caffeine molecule remains intact in the body. The enzyme is phenacetin O-dealkylase, also called CYP1A2. (CYP1A2 is actually the label for the gene that codes for the enzyme, but the enzyme itself is often referred to as CYP1A2.) CYP1A2 dismantles caffeine by pulling the methyl groups off the caffeine molecule. 

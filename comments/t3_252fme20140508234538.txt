@@ -1,0 +1,5 @@
+I believe imgur strips the exif data out of photos posted there, but I'm not sure. 
+
+Edit:  it does:
+
+http://www.reddit.com/comments/9tlwi/im_the_imgur_guy_ama/

@@ -1,0 +1,33 @@
+As a chick working in a male dominated industry-- that whole men ignoring you or just humoring you when you're talking-- *that*.
+
+I find that once I get to know the guy in question, that dies away. But when you're working with a guy you just met? SO frustrating sometimes.
+
+My all-time most ridiculous example:
+
+As a telecom technician I spent like five hours one day helping some HVAC contractors hook up the HVAC control system in a new building. At that time, I was the go-to person in my office for dealing with HVAC controllers-- I had memorized the three controller models that most of our buildings had and I had gone to the trouble of downloading and *actually reading* the manuals for each of these controllers. I knew those fuckers back to front and I'd helped contractors from the same company install them in half a dozen other buildings.
+
+But on this one fucking day it so happened that the owner of the contracting company was at the site, personally overseeing the installation of the new HVAC stuff.
+
+Somewhere along the way, we hit a snag. Its been too long now, I can't remember exactly what the issue was, but I know I spent about two hours trying to explain to the contractor-owner-guy over, and over, and over, and over again that I could see perfectly clearly where the snag was, but I couldn't fix it because it was an issue with the controller software and that's not my job (as a technician of any kind, you're taking a big risk by attempting to fix something that its not your job to fix-- even if you *know* exactly what is wrong and could/would have easily fixed it if it were only within your purview).
+
+I tried to walk his technicians through it but they *really* didn't understand the software (in their defense, software written for things like utility controllers is generally difficult and obnoxious) (*not* in their defense-- it seemed like every time I worked with this company, they had a new tech and none of their techs *ever* had a clue how these controllers were supposed to work even though supposedly installing and fixing these things is basically what they do all day)... And, to be honest, I think having the owner-guy on the site was making his techs extra nervous-- I actually felt bad for them.
+
+*Anyway*... Eventually the whole thing boiled down to me using my cell phone, my fluke and my laptop in an attempt to demonstrate to owner-guy what the fuck was wrong. (I mean... it was seriously ridiculous... I was using my phone as a remote terminal to demonstrate why connections outside the local network weren't getting through-- and this was at a time when I was still the only person I knew who actually used the terminal on their cell phone-- I guess I kinda feel like, on the basis of that alone, owner-guy should have just been like, 'oh, okay, i see that you know way more than i do about this stuff. i will just calmly accept this and take your advice now'.)
+
+Finally it was getting dangerously close to quitting time for me and I didn't get overtime and I had no desire to just chill with this asshole out of the goodness of my heart-- so I called up one of the other techs in the office (they were all guys at the time) and had this conversation (out of owner-guy's hearing range):
+
+me: hey, i've been stuck in this building working on this stupid issue for five hours but this guy won't listen to me or let me leave until its fixed-- and i can't fix it because xyz. BUT i have a hunch that maybe if you just come over here and repeat to him everything i've been saying for the last two hours, he'll like it better since you're a dude.
+
+other_tech: sure. just tell me exactly what you want me to say.
+
+me: just explain to him that xyzishblahblah is the problem.
+
+other_tech: cool. be there in 10.
+
+And, as you've surely guessed by now, the other tech came over, spent fifteen minutes saying exactly what I'd told him to say, and what do you know? Owner-guy makes no more arguments, just accepts it, thanks us, and we go back to our office.
+
+Le sigh.
+
+/rant
+
+**tl;dr spent a lot of time trying to explain something technical to an annoying_guy. he wouldn't listen. so i called another man to come and repeat my explanation to annoying_guy. boom. message received.** 

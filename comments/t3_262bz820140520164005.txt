@@ -1,0 +1,3 @@
+Most if the places I've seen have been split 99/1, but the one did her own work -- the show got that part wrong, which is sad because for the most part the characters (though over the top) are based on actual people.
+
+I used to avoid Java, but after seeing what other people do to code I've come to appreciate it as a language.  I just wish that initializing a map was easier.  And there should be a Pair< >.

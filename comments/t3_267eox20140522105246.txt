@@ -1,0 +1,7 @@
+As a woman who was 'the only girl in the class' through most of my electronics and programming degree, and now runs a version of Girl Geek Dinners in my home city, I admit to being completely biased when I talk about how much I love these sorts of projects. 
+
+The truth is that for many of us, programming still isn't a good atmosphere in uni and it can still be an awful environment to work in if you don't find the best of the best offices. I think it's important to get women in programming together to remind ourselves that we *can* do these things, we are just as capable as our male coworkers even if they don't see us that way sometimes. 
+
+My only wariness in the teaching-style groups is that there's a very fine line between doing it right and being insulting. For example RailsGirls seems to strike a good balance, as do many associations that are targeted towards women in tech. However there are a small section of groups, like one in my city that I will not name that I feel fall in to the 'insulting' category - they seem to position themselves as 'we can teach women how to code', ending up putting across the perceptions that a) women can't code, b) women can't learn with the guys and need 'special' techniques, and/or c) women aren't as good as men and need extra help.
+
+I think all of these sorts of projects are a great idea, but I wonder what to do about the groups that end up more damaging than helpful towards women in tech.

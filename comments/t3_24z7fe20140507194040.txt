@@ -1,0 +1,3 @@
+The admins actually approach all subreddits before making them defaults. They have to say "Yes" to be come a default, or "No" if they don't want to. The the moderators of this subreddit explicitly gave permission to an admin when asked if they wanted to become a default subreddit. They could have said no, which is what /r/AskHistorians did when asked. IF they change their mind, they can be removed from the set of default subreddits.
+
+I'm actually not exactly sure what that checkbox does. Maybe it prevents posts from being shown in /r/all?

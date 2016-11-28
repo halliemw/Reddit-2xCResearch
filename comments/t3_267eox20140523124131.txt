@@ -1,0 +1,21 @@
+Again, I've been trying to argue that you have *scientific* misconceptions about the relationship between socialization and career choice because you aren't aware of the relevant evidence. My field is psychology so that's why I know this stuff in the first place -- I've had to study it. Your field is programming so I wouldn't expect you to be knowledgeable about the evidence from psychology, but it makes sense to me that you would have misconceptions about psychology based on your own experiences because most people do. I probably have misconceptions about how programming works because I'm not a programmer, but I don't pretend to understanding programming.
+
+If you don't like the evidence or don't care about evidence in the first place then fine, just say that. There's no use in pretending it doesn't exist as if you've studied the subject yourself. I've already linked to a blog post that *went over some evidence* but you didn't like that, so I'll go over some more evidence myself and than leave you with some reading material with even more evidence, just in case you care about evidence.
+
+> *you can not separate culture from a subject in order to test accurately*
+
+To the contrary, this has been done. Not as part of an experiment of course but as a result of disease and accidents. The evidence is clear:
+
+* Biological boys socialized as if they were girls still develop male attitudes and interests. (Boys with a birth defect called cloacal exstrophy (born without a penis) are often castrated and then raised as girls. They still develop typical male attitudes and interests, and most of them spontaneously declare that they're boys.)
+
+* Girls with congenital adrenal hyperplasia (overproduction of male hormone in utero; hormone levels brought down to normal after birth) "grow into tomboys, with more rough-and-tumble play, a greater interest in trucks than dolls, better spatial abilities, and, when they get older, more sexual fantasies and attractions involving other girls."
+
+> The source of discrimination women face is based on believed upon biological differences. And that is not OK. It is not OK every single time someone acts shocked that I code, am good it it and really enjoy it. Just because I am a woman and gosh, women don't like that sort of thing.
+
+I would strongly disagree that this discrimination is based on believed biological differences. Rather it's because these people *don't understand* biological differences and have many misconceptions about them (as do you, which is why you would conflate them). In fact, if they did understand the biology, it would give them all the more reason to *expect you* to be good at coding. If they understood that you are probably good at coding *because* of your *individual* biological nature then the fact that you're a woman would be irrelevant to them. These discriminators you're talking about are very uninformed about the *variation* in traits among both men and women, such that some women should be expected to be innately good at coding. If only they had a lesson about the biological factors in shaping our individual minds they would be less likely to discriminate. (Our minds are also shaped significantly by random chance as well, so recognition of that too would make discrimination less likely because you can't have expectations of an individual result of randomness.)
+
+Here is some reading for you. Please remember that you're a programmer, not a psychologist or biologist, so you shouldn't expect yourself to be knowledgeable in these issues *from the get-go*. Take some time to learn the subject matter if you care about having an informed view on these topics. I'm going to recommend that you read two book chapters. The first is about the relationship between gender, feminism, biology, and socialization. The second is about parenting, socialization, genes, personality, intelligence, and other things (basically nature/nurture). Hopefully these will teach you about how socialization actually works and clear up some misconceptions.
+
+* [Gender](http://evolbiol.ru/blankslate/blankslate.htm#18)
+
+* [Children (nature/nurture)](http://evolbiol.ru/blankslate/blankslate.htm#19)

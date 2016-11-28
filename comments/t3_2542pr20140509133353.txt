@@ -1,0 +1,1 @@
+IP bans are a very temporary measure. It's not 1992 anymore, nobody has a static IP.

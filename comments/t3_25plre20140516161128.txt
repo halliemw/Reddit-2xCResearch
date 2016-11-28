@@ -1,0 +1,3 @@
+There's a dual purpose to the tags - they give a directive to users, but they also give mods a clear heuristic for when to delete borderline comments.
+
+Right now we have a problem where there are borderline -questioning comments in (what would be) support threads, that don't get removed because they technically don't violate any rules and we don't in a general sense want to ban debate.  If we had a tag on support threads, it would create a clear heuristic for when debate is allowed vs when  it is unwelcome.

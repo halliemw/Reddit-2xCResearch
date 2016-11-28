@@ -1,0 +1,5 @@
+Minor suggestion:
+
+If you use a Windows system, start with C# instead of Java.
+
+If you use Macintosh/Linux, start with anything that isn't Java or Objective-C, and learn the shell.  You can always learn new languages later.

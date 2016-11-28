@@ -1,0 +1,1 @@
+So take each grade as the average in its category and compare them as two simple normal distributions.

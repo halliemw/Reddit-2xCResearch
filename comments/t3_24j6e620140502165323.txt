@@ -1,0 +1,5 @@
+This comment has been overwritten by an open source script to protect this user&apos;s privacy.  It was created to help protect users from doxing, stalking, harassment, and profiling for the purposes of censorship. 
+
+   If you would also like to protect yourself, add the Chrome extension [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), or the Firefox extension [GreaseMonkey](https://addons.mozilla.org/en-us/firefox/addon/greasemonkey/) and add [this open source script](https://greasyfork.org/en/scripts/10380-reddit-overwrite).   
+
+ Then simply click on your username on Reddit, go to the comments tab, scroll down as far as possible (hint:use [RES](http://www.redditenhancementsuite.com/)), and hit the new OVERWRITE button at the top.

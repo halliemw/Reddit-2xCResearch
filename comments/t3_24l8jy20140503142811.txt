@@ -1,0 +1,5 @@
+Ugh D: If you follow those steps for securing your gmail account and then secure your Facebook account with the same techniques (change password, force logout all sessions, check connections, check email/contact info, check your computer, etc.) then you should be good. Checking your computer is important if he has some kind of keylogger installed that might tell him a hint about your passwords but won't easily give him access to delete files. And of course this is assuming he doesn't have physical access to it - then it's not gonna be easy to do anything D:
+
+Have you contacted anyone at the school to see if they can do anything? Maybe they might have backups or some kind of email retention policy regardless of how you try to delete it. Then you can reset the password and see if he does it again. You could also ask the school if they can set up forwarding so all your messages get copied to another account that _can_ be secured, like your gmail.
+
+Also now that you have a case to reference, I would report the bank transfer again both to the bank(s) and law enforcement. Don't let him emotionally manipulate you :(

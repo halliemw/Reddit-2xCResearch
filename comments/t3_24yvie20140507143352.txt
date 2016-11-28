@@ -1,0 +1,7 @@
+1. Like I said to someone else I replied to, Instagram (like almost every other website) logs the IP address of new users. Usually you can trace this back to the account holder's computer (that is, if the address has been recently 'leased'). It's definitely a feasable task, unless they were using anything like a proxy server.
+
+2. Well of course! It's an *open* web, you should be able to use the Internet unharrassed.
+
+I hope you can find a resolution to this situation.
+
+EDIT: Notice that all of these accounts that have replied are days old..

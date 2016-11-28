@@ -1,0 +1,1 @@
+I am curious as to what the center of mass calculation would look like. 

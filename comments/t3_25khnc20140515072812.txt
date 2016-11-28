@@ -1,0 +1,3 @@
+Also this is academic science. I don't doubt that there is sexism there, and in some software Dev shops, all I can say is that we used pretty objective tests - writing code that works and answering a couple of architectural/design questions where we look for certain keywords that indicate you know what you are doing. 
+
+That's mostly what matters, and is about 75% of the way to getting hired.  The rest is just being able to hold a technical conversation and talk about your past work a bit. Maybe there are all kinds of hidden biases here, but I think the fact that we've turned down a lot of candidates regardless of appearance and hired women says that may not fully be the case.

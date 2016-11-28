@@ -1,0 +1,11 @@
+> You need to be reasonably smart to program, but you don't need to be a genius
+
+Learning a programming language is just like learning any new language. If you're bi-lingual, picking up a programming language is usually easier. If you choose a lower-level language to start, you'll more than likely have an easier time picking up derivative languages. 
+
+> The mythology of coding that men are better suited to it is kind of ridiculous, IMO. If an alien came to earth and learned what skills stereotypical women have vs. stereotypical men, they would totally expect it to be a woman thing.
+
+Frankly any blanket statement of men or women being better at something than the other is usually just sexist ...
+
+> **Always comment your code**
+
+Comment your code and/or use easy to understand variable names, if you name all of your variables single characters (the exception is when they're very clearly used as counters), I will curse you till the end of time.

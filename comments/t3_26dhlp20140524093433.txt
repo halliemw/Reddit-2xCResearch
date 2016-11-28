@@ -1,0 +1,3 @@
+Please note that this will also filter out words like chiffon, cliffhanger, cliff, differ, difference, difficult, sniff, spliff, stiff, etc so if any of these words are likely to be in the titles of things you do want to browse this is not the best idea. 
+
+You could try '[IFF]' and '(IFF)' to get out most of them though.

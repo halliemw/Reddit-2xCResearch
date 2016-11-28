@@ -1,0 +1,3 @@
+He's probably referring to Automoderator which gives mods functionality similar to a shadowban. It's good to not conflate these terms though so I usually call this  "auto remove user" instead. Basically every comment by a user is removed by Automoderator almost instantly. 
+
+While I can't say for sure how they're using this specific Automoderator feature, it's more likely that these actions are from "auto remove keyword" which removes specific slurs and epithets. "Auto remove user" is time-consuming and so the keyword removal tends to affect many more comments. 

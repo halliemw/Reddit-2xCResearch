@@ -1,0 +1,9 @@
+Medical student here. Maybe I can help clear up some confusion...
+
+First of all, HPV is an EXTREMELY common sexually transmitted infection, which comes in many different strains. The infection rate is around 30-40% (depending on your age). In particular, strains 16 and 18 are known to be necessary, but not sufficient, in the pathogenesis of cervical cancer. In other words, if you do not have the virus, you cannot develop cervical cancer. If you do have the virus, then your risk is still quite low that you will go on to develop cervical cancer. It's only "high risk" because it IS associated with cancer.
+
+Guardasil is a vaccination against HPV strains 16, 18 and a couple others. If you have already tested positive for 16 or 18, then you were most likely infected before you received the vaccine.
+
+So if your cytology (i.e. PAP smear) was normal, it makes sense to get annual screening. If you are HPV positive, the current guidelines are to either get annual HPV DNA testing (to check to see if you still have an active viral infection) or to get cytology and HPV DNA testing done annually.
+
+If "dysplasia" is noticed in the PAP smear, then you will need to get a colposcopy, which is basically to get a good look at the transformation zone of your cervix. Depending on the results of the colposcopy, at that time you may need a biopsy.

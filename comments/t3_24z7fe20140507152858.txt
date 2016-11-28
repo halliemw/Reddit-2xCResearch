@@ -1,0 +1,1 @@
+Mods can opt-out of becoming a default subreddit, however. There's a checkbox on the subreddit settings page.

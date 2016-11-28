@@ -1,0 +1,9 @@
+There are two kinds of codes that are submitted with any claim: CPT and ICD codes. CPT codes are for procedures/treatments. ICD codes are for the diagnosis. For example, if you get an X-ray because you have a broken arm, the CPT code would be for "X-ray" and the ICD code would be for "broken arm". 
+
+Some plans have what are called "exclusions", where it is written into the plan what procedures and/or diagnoses are covered, and what aren't. It has nothing to do with medical necessity, it's just the plan. It is actually the *employer* who decides which plan you get, thus dictating the extent of your coverage. 
+
+If the CPT or ICD code is just an exclusion of your plan, you are pretty much SOL. It could be that the PT submitted a combination that BCBS does not accept ("you can't do that treatment for that diagnosis").
+
+Exclusions are super frustrating and it's *really* tough to fight them, because there isn't a "reason" for it-- it's just the restrictions of the plan. It's also probably important to understand that this is not the *insurance company* creating the exclusion, it's the *plan your employer selected*. If you were on a different plan, BCBS would approve it.
+
+I'm a speech therapist who submits to BCBS and run into this issue all the time. I've learned that you should NEVER assume that any particular treatment/diagnosis is covered without verifying your plan details first. Some of my BCBS patients are covered for stuttering, for example, and others are not. It all depends on what BCBS plan the employer selected.

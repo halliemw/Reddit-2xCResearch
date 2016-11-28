@@ -1,0 +1,1 @@
+The other issue with step through frames is that is just is not as stable, there is less support, it can't handle abuse as well due to the design
