@@ -7,7 +7,10 @@ import shlex
 import os
 
 # .. means to up a level
-source = '../comments/' #input("Enter name of collection directory: ")
+source = '../submissions/' #input("Enter name of collection directory: ")
+setname = 'submissions' #input("Give this model a name: ")
+
+
 
 if not source.endswith('/'):
     source += '/'
@@ -22,7 +25,6 @@ topics = "10" #input("Enter number of topics to build: ")
 #     print("ERROR: Must enter a valid number")
 #     quit()
 
-setname = 'submissions' #input("Give this model a name: ")
 
 print("\nPreparing topic model job...\n")
 
